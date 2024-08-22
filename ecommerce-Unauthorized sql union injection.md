@@ -40,6 +40,6 @@ Connection: close
 
 database
 
-| ![image-20240822163210159](https://raw.githubusercontent.com/0xffaaa/cve/main/ecommerce-Unauthorized%20arbitrary%20file%20upload vulnerability.assets/image-20240822163210159.png) |
+| ![image-20240822163210159](https://raw.githubusercontent.com/0xffaaa/cve/main/ecommerce-Unauthorized%20arbitrary%20file%20upload%20vulnerability.assets/image-20240822163210159.png) |
 | ------------------------------------------------------------ |
 
