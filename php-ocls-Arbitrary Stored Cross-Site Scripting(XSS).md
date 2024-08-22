@@ -19,7 +19,7 @@
 
    /php-ocls/admin/login.php
 
-| ![image-20240816163739350](E:\Desktop\webRay\cve挖掘\cve提交\php-ocls-Arbitrary File Upload.assets\image-20240816163739350.png) |
+| ![image-20240816163739350](https://raw.githubusercontent.com/0xffaaa/cve/main/php-ocls-Arbitrary File Upload.assets/image-20240816163739350.png) |
 | ------------------------------------------------------------ |
 
 2. System Information Settings
@@ -30,11 +30,11 @@
    /><script>alert(1);</script>
    ```
 
-| ![image-20240816165315627](E:\Desktop\webRay\cve挖掘\cve提交\php-ocls-Arbitrary Stored Cross-Site Scripting(XSS).assets\image-20240816165315627.png) |
+| ![image-20240816165315627](https://raw.githubusercontent.com/0xffaaa/cve/main/php-ocls-Arbitrary Stored Cross-Site Scripting(XSS).assets/image-20240816165315627.png) |
 | ------------------------------------------------------------ |
 
 submit
 
-| ![image-20240816165359397](E:\Desktop\webRay\cve挖掘\cve提交\php-ocls-Arbitrary Stored Cross-Site Scripting(XSS).assets\image-20240816165359397.png) |
+| ![image-20240816165359397](https://raw.githubusercontent.com/0xffaaa/cve/main/php-ocls-Arbitrary Stored Cross-Site Scripting(XSS).assets\image-20240816165359397.png) |
 | ------------------------------------------------------------ |
 
