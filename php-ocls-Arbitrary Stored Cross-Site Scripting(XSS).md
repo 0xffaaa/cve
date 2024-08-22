@@ -35,6 +35,6 @@
 
 submit
 
-| ![image-20240816165359397](https://raw.githubusercontent.com/0xffaaa/cve/main/php-ocls-Arbitrary%20Stored%20Cross-Site%20Scripting(XSS).assets\image-20240816165359397.png) |
+| ![image-20240816165359397](https://raw.githubusercontent.com/0xffaaa/cve/main/php-ocls-Arbitrary%20Stored%20Cross-Site%20Scripting(XSS).assets/image-20240816165359397.png) |
 | ------------------------------------------------------------ |
 
