@@ -19,12 +19,12 @@
 
    /php-ocls/admin/login.php
 
-| ![image-20240816163739350](E:\Desktop\webRay\cve挖掘\cve提交\php-ocls-Arbitrary File Upload.assets\image-20240816163739350.png) |
+| ![image-20240816163739350](https://raw.githubusercontent.com/0xffaaa/cve/main/php-ocls-Arbitrary%20File%20Upload.assets/image-20240816163739350.png) |
 | ------------------------------------------------------------ |
 
 2. upload Avatar
 
-| ![](E:\Desktop\webRay\cve挖掘\cve提交\php-ocls-Arbitrary File Upload.assets\image-20240816163815702.png) |
+| ![](https://raw.githubusercontent.com/0xffaaa/cve/mainphp-ocls-Arbitrary%20File%20Upload.assets/image-20240816163815702.png) |
 | ------------------------------------------------------------ |
 | ![image-20240816163931495](E:\Desktop\webRay\cve挖掘\cve提交\php-ocls-Arbitrary File Upload.assets\image-20240816163931495.png) |
 
@@ -78,11 +78,11 @@ Content-Type: image/jpeg
 
 3. Accessing avatars
 
-| ![image-20240816164005374](E:\Desktop\webRay\cve挖掘\cve提交\php-ocls-Arbitrary File Upload.assets\image-20240816164005374.png) |
+| ![image-20240816164005374](https://raw.githubusercontent.com/0xffaaa/cve/main/php-ocls-Arbitrary%20File%20Upload.assets/image-20240816164005374.png) |
 | ------------------------------------------------------------ |
 
 > /php-ocls/uploads/1723797540_1.php
 
-| ![image-20240816164104754](E:\Desktop\webRay\cve挖掘\cve提交\php-ocls-Arbitrary File Upload.assets\image-20240816164104754.png) |
+| ![image-20240816164104754](https://raw.githubusercontent.com/0xffaaa/cve/main/php-ocls-Arbitrary%20File%20Upload.assets/image-20240816164104754.png) |
 | ------------------------------------------------------------ |
 
