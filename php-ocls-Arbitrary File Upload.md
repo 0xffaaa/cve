@@ -26,7 +26,7 @@
 
 | ![](https://raw.githubusercontent.com/0xffaaa/cve/mainphp-ocls-Arbitrary%20File%20Upload.assets/image-20240816163815702.png) |
 | ------------------------------------------------------------ |
-| ![image-20240816163931495](E:\Desktop\webRay\cve挖掘\cve提交\php-ocls-Arbitrary File Upload.assets\image-20240816163931495.png) |
+| ![image-20240816163931495](https://raw.githubusercontent.com/0xffaaa/cve/main/php-ocls-Arbitrary%20File%20Upload.assets/image-20240816163931495.png) |
 
 ```http
 POST /php-ocls/classes/Users.php?f=save HTTP/1.1
