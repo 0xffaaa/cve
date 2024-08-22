@@ -61,11 +61,11 @@ Connection: close
 user_email=janobe&user_pass=admin&btnLogin=
 ```
 
-| ![image-20240822161628961](E:\Desktop\webRay\cve挖掘\cve提交\ecommerce-Universal password bypasses login verification.assets\image-20240822161628961.png) |
+| ![image-20240822161628961](https://raw.githubusercontent.com/0xffaaa/cve/main/ecommerce-Universal%20password%20bypasses%20login%20verification.assets/image-20240822161628961.png) |
 | ------------------------------------------------------------ |
 
 3. Bypassing permission verification through sql injection
 
-| ![](E:\Desktop\webRay\cve挖掘\cve提交\ecommerce-Universal password bypasses login verification.assets\image-20240822153239132.png) |
+| ![](https://raw.githubusercontent.com/0xffaaa/cve/main/ecommerce-Universal%20password%20bypasses%20login%20verification.assets/image-20240822153239132.png) |
 | ------------------------------------------------------------ |
 
