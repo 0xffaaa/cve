@@ -31,7 +31,7 @@ Connection: close
 user_email=janobe&user_pass=123&btnLogin=
 ```
 
-| ![](E:\Desktop\webRay\cve挖掘\cve提交\ecommerce-Universal password bypasses login verification.assets\image-20240822152914482.png) |
+| ![](https://raw.githubusercontent.com/0xffaaa/cve/main/ecommerce-Universal%20password%20bypasses%20login%20verification.assets/image-20240822152914482.png) |
 | ------------------------------------------------------------ |
 
 
