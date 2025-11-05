@@ -17,7 +17,7 @@
 
 sink
 
-| ![image-20250910161139868](Online Magazine Management System SQL blind injection(SQLI).assets/image-20250910161139868.png) |
+| ![image-20250910161139868](https://raw.githubusercontent.com/0xffaaa/cve/refs/heads/main/Online%20Magazine%20Management%20System%20SQL%20blind%20injection(SQLI).assets/image-20250910161139868.png) |
 | ------------------------------------------------------------ |
 
 POC
@@ -41,11 +41,11 @@ Connection: keep-alive
 
 Vulnerability verification
 
-| ![image-20250910161224585](Online Magazine Management System SQL blind injection(SQLI).assets/image-20250910161224585.png) |
+| ![image-20250910161224585]([Online Magazine Management System SQL blind injection(SQLI).assets](https://raw.githubusercontent.com/0xffaaa/cve/refs/heads/main/Online%20Magazine%20Management%20System%20SQL%20blind%20injection(SQLI).assets/)/image-20250910161224585.png) |
 | ------------------------------------------------------------ |
 
 Normal request
 
-| ![image-20250910161308506](Online Magazine Management System SQL blind injection(SQLI).assets/image-20250910161308506.png) |
+| ![image-20250910161308506]([Online Magazine Management System SQL blind injection(SQLI).assets/](https://raw.githubusercontent.com/0xffaaa/cve/refs/heads/main/Online%20Magazine%20Management%20System%20SQL%20blind%20injection(SQLI).assets/)image-20250910161308506.png) |
 | ------------------------------------------------------------ |
 
