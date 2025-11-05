@@ -17,7 +17,7 @@
 
 sink
 
-| ![image-20250910162145184](Online Magazine Management System SQL blind injection2(SQLI) .assets/image-20250910162145184.png) |
+| ![image-20250910162145184](https://raw.githubusercontent.com/0xffaaa/cve/refs/heads/main/Online%20Magazine%20Management%20System%20SQL%20blind injection2(SQLI)%20.assets/image-20250910162145184.png) |
 | ------------------------------------------------------------ |
 
 POC
