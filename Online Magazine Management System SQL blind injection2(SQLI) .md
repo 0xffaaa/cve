@@ -42,11 +42,11 @@ Connection: keep-alive
 
 Vulnerability verification
 
-| ![image-20250910162210595](Online Magazine Management System SQL blind injection2(SQLI) .assets/image-20250910162210595.png) |
+| ![image-20250910162210595](https://raw.githubusercontent.com/0xffaaa/cve/refs/heads/main/Online%20Magazine%20Management%20System%20SQL%20blind%20injection2(SQLI)%20.assets/image-20250910162210595.png) |
 | ------------------------------------------------------------ |
 
 Normal request
 
-| ![image-20250910162225991](Online Magazine Management System SQL blind injection2(SQLI) .assets/image-20250910162225991.png) |
+| ![image-20250910162225991](https://raw.githubusercontent.com/0xffaaa/cve/refs/heads/main/Online%20Magazine%20Management%20System%20SQL%20blind%20injection2(SQLI)%20.assets/image-20250910162225991.png) |
 | ------------------------------------------------------------ |
 
