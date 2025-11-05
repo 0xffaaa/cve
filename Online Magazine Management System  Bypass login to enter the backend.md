@@ -17,7 +17,7 @@
 
 sink
 
-| ![image-20250910163629254](Online Magazine Management System  Bypass login to enter the backend.assets/image-20250910163629254.png) |
+| ![image-20250910163629254](https://raw.githubusercontent.com/0xffaaa/cve/refs/heads/main/Online%20Magazine%20Management%20System%20%20Bypass%20login%20to enter%20the%20backend.assets/image-20250910163629254.png) |
 | ------------------------------------------------------------ |
 
 POC
@@ -48,5 +48,5 @@ username=admin'or+'1'%3D'1&password=123
 
 Vulnerability verification
 
-| ![image-20250910163658187](https://raw.githubusercontent.com/0xffaaa/cve/main/Online Magazine Management System  Bypass login to enter the backend.assets/image-20250910163658187.png) |
+| ![image-20250910163658187](https://raw.githubusercontent.com/0xffaaa/cve/refs/heads/main/Online%20Magazine%20Management%20System%20%20Bypass%20login%20to enter%20the%20backend.assets/image-20250910163658187.png) |
 | ------------------------------------------------------------ |
